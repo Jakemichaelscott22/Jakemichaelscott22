@@ -5,7 +5,7 @@
 ---
 I am a recent graduate with a passion for all things Cybersecurity and Information Technology
 ## Objective
-Drivin by my interest in Cybersecurity, I have transitioned into this field with the clear objective to be a **SOC Level 1 Analyst**. Through this GitHub portfolio, I aim to demonstrate hands-on projects that showcase my skills in both Red Team and Blue Team operations.
+Driven by my interest in Cybersecurity, I have transitioned into this field with the clear objective to be a **SOC Level 1 Analyst**. Through this GitHub portfolio, I aim to demonstrate hands-on projects that showcase my skills in both Red Team and Blue Team operations.
 
 ## Skills
 
